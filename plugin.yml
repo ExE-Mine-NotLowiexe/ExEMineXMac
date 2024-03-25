@@ -1,0 +1,71 @@
+name: XMac
+main: 
+version: "1.14"
+author: [NotLowi ExE Mine]
+description: It's an Advanced AntiCheat Detection, by NotLowi
+api-version: 1.13
+softdepend: [ProtocolLib, Essentials, WorldGuard, GadgetsMenu, MaxBans, AdvancedBan, LiteBans, ViaVersion, ProtocolSupport, floodgate-bukkit, floodgate]
+
+commands:
+  xmac:
+    description: See all informations about a player and start verif
+    permission: xmac.xmac
+    aliases: [x, xm]
+  xreport:
+    description: Report a player
+    permission: xmac.report
+    aliases: [report]
+  xban:
+    description: Ban a player
+    permission: xmac.ban
+    aliases: [ban]
+  xunban:
+    description: Unban a player
+    permission: xmac.unban
+    aliases: [unban]
+  xkick:
+    description: Kick a player
+    permission: xmac.kick
+    aliases: [kick]
+  xmod:
+    description: Option for mod
+    permission: xmac.mod
+    aliases: [mod]
+  nlang:
+    description: Language management
+    permission: xmac.lang
+    aliases: [lang]
+
+permissions:
+  xmac.*:
+    description: Gives access to everything.
+    children:
+      xmac.negativity: true
+      xmac.report: true
+      xmac.ban: true
+      xmac.unban: true
+      xmac.kick: true
+      xmac.mod: true
+      xmac.verif: true
+      xmac.alert: true
+      xmac.mod: true
+      xmac.managecheat: true
+      xmac.reportwait: true
+  xmac.xmac:
+    description: See all informations about a player and start verif
+    default: op
+  xmac.report:
+    description: Report a player
+    default: op
+  xmac.ban:
+    description: Ban a player
+    default: op
+  xmac.unban:
+    description: Unban a player
+    default: op
+  xmac.kick:
+    description: Kick a player
+    default: op
+  xmac.mod:
+    description: Option for mod
+    default: op
