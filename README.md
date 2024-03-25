@@ -8,10 +8,6 @@ Even if you plan to use it on your proxy server, you still need to install the p
 
 The free version has no longer support. Only the premium one has.
 
-Informations
-If you need assistance (except for free version), you can reach out to me through Discord private messages (Elikill58) or join my Discord server here.
-You can also provide suggestions and report bugs through the issue tracker on the repository.
-
 A premium version of the plugin is available. You can download it from here. You can learn about the differences between the free and premium versions here.
 
 Installation Guide
@@ -78,10 +74,6 @@ Même si vous prévoyez de l'utiliser sur votre serveur proxy, vous devez toujou
 
 La version gratuite n'est plus prise en charge. Seule la version premium l'est.
 
-Informations
-Si vous avez besoin d'aide (sauf pour la version gratuite), vous pouvez me contacter via des messages privés Discord (Elikill58) ou rejoindre mon serveur Discord ici.
-Vous pouvez également fournir des suggestions et signaler des bugs via le suivi des problèmes sur le dépôt.
-
 Une version premium du plugin est disponible. Vous pouvez le télécharger à partir d'ici. Vous pouvez en apprendre davantage sur les différences entre les versions gratuite et premium ici.
 
 Guide d'installation
@@ -143,9 +135,6 @@ Por favor, note que o XMac não é compatível com o Spigot 1.7.10 e versões do
 Mesmo que você planeje usá-lo em seu servidor de proxy, ainda é necessário instalar o plugin em seu servidor Spigot ou Sponge.
 
 A versão gratuita não tem mais suporte. Apenas a versão premium possui.
-
-Informações
-Se precisar de assistência (exceto para a versão gratuita), você pode me contatar através de mensagens privadas no Discord (Elikill58) ou entrar no meu servidor do Discord aqui. Você também pode fornecer sugestões e relatar bugs através do rastreador de problemas no repositório.
 
 Uma versão premium do plugin está disponível. Você pode baixá-la daqui. Você pode aprender sobre as diferenças entre as versões gratuita e premium aqui.
 
@@ -212,9 +201,6 @@ Selv om du planlegger å bruke det på serveren din proxy, må du fortsatt insta
 
 Den gratis versjonen har ikke lenger støtte. Bare premium-versjonen har det.
 
-Informasjon
-Hvis du trenger hjelp (unntatt for gratisversjonen), kan du nå meg gjennom Discord private meldinger (Elikill58) eller bli med på min Discord-server her. Du kan også gi forslag og rapportere feil gjennom problemrackeren på repositoriet.
-
 En premium-versjon av tillegget er tilgjengelig. Du kan laste den ned her. Du kan lære om forskjellene mellom gratis- og premium-versjonene her.
 
 Installasjonsguide
@@ -280,9 +266,6 @@ XMac - это плагин против читов для Minecraft, разра�
 
 Бесплатная версия больше не поддерживается. Только премиум-версия имеет поддержку.
 
-Информация
-Если вам нужна помощь (за исключением бесплатной версии), вы можете связаться со мной через личные сообщения Discord (Elikill58) или присоединиться к моему серверу Discord здесь. Вы также можете предложить идеи и сообщить о проблемах через трекер проблем в репозитории.
-
 Доступна премиум-версия плагина. Вы можете загрузить ее отсюда. Вы можете узнать о различиях между бесплатной и премиум-версиями здесь.
 
 Руководство по установке
@@ -342,10 +325,6 @@ XMac 是一个专为 Spigot（1.8.8 至 1.20 版本）设计的 Minecraft 反作
 即使您计划在代理服务器上使用它，您仍然需要在 Spigot 或 Sponge 服务器上安装插件。
 
 免费版本不再受支持。只有高级版有支持。
-
-信息
-如果您需要帮助（免费版本除外），您可以通过 Discord 私信（Elikill58）与我联系，或者加入我的 Discord 服务器 这里。
-您还可以通过仓库上的问题跟踪器提供建议和报告错误。
 
 可用的插件的高级版本。您可以从这里下载它。您可以在这里了解免费版和高级版之间的区别。
 
@@ -413,10 +392,6 @@ XMac 是一個專為 Spigot（1.8.8 至 1.20 版本）設計的 Minecraft 反作
 
 免費版本不再受支援。只有高級版有支援。
 
-資訊
-如果您需要幫助（免費版本除外），您可以通過 Discord 私訊（Elikill58）與我聯繫，或者加入我的 Discord 伺服器 這裡。
-您還可以通過倉庫上的問題追蹤器提供建議和報告錯誤。
-
 可用的插件的高級版本。您可以從這裡下載它。您可以在這裡了解免費版和高級版之間的區別。
 
 安裝指南
@@ -482,10 +457,6 @@ Bitte beachten Sie, dass XMac nicht mit Spigot 1.7.10 und Sponge-Versionen nach 
 Auch wenn Sie planen, es auf Ihrem Proxy-Server zu verwenden, müssen Sie das Plugin dennoch auf Ihrem Spigot- oder Sponge-Server installieren.
 
 Die kostenlose Version wird nicht mehr unterstützt. Nur die Premium-Version hat Unterstützung.
-
-Informationen
-Wenn Sie Hilfe benötigen (außer für die kostenlose Version), können Sie mich über Discord-Privatnachrichten (Elikill58) kontaktieren oder meinem Discord-Server hier beitreten.
-Sie können auch Vorschläge machen und Fehler über das Problemverfolgungssystem im Repository melden.
 
 Eine Premium-Version des Plugins ist verfügbar. Sie können es hier herunterladen. Hier erfahren Sie mehr über die Unterschiede zwischen der kostenlosen und der Premium-Version.
 
@@ -553,10 +524,6 @@ Zelfs als u van plan bent het op uw proxyserver te gebruiken, moet u de plugin n
 
 De gratis versie wordt niet langer ondersteund. Alleen de premiumversie heeft ondersteuning.
 
-Informatie
-Als u hulp nodig heeft (behalve voor de gratis versie), kunt u contact met mij opnemen via Discord-privéberichten (Elikill58) of mijn Discord-server hier joinen.
-U kunt ook suggesties doen en bugs melden via de issue tracker op het repository.
-
 Een premiumversie van de plugin is beschikbaar. U kunt het hier downloaden. Hier kunt u meer leren over de verschillen tussen de gratis en premiumversies.
 
 Installatiehandleiding
@@ -622,10 +589,6 @@ Observera att XMac inte är kompatibelt med Spigot 1.7.10 och Sponge-versioner e
 Även om du planerar att använda det på din proxy-server måste du fortfarande installera pluginet på din Spigot- eller Sponge-server.
 
 Den gratis versionen har inte längre support. Endast den premiumversionen har det.
-
-Information
-Om du behöver hjälp (utom för den gratis versionen) kan du kontakta mig via Discord privata meddelanden (Elikill58) eller gå med i min Discord-server här.
-Du kan också ge förslag och rapportera buggar via issue tracker på repositoryn.
 
 En premiumversion av pluginet är tillgänglig. Du kan ladda ner den här. Du kan lära dig om skillnaderna mellan den gratis och premiumversionen här.
 
@@ -693,10 +656,6 @@ Incluso si planeas usarlo en tu servidor proxy, aún necesitas instalar el compl
 
 La versión gratuita ya no tiene soporte. Solo la versión premium lo tiene.
 
-Información
-Si necesitas ayuda (excepto para la versión gratuita), puedes contactarme a través de mensajes privados en Discord (Elikill58) o unirte a mi servidor de Discord aquí.
-También puedes proporcionar sugerencias y reportar errores a través del rastreador de problemas en el repositorio.
-
 Una versión premium del complemento está disponible. Puedes descargarla desde aquí. Puedes aprender sobre las diferencias entre las versiones gratuita y premium aquí.
 
 Guía de Instalación
@@ -762,10 +721,6 @@ Vui lòng lưu ý rằng XMac không tương thích với Spigot 1.7.10 và các
 Ngay cả khi bạn dự định sử dụng nó trên máy chủ proxy của mình, bạn vẫn cần cài đặt plugin trên máy chủ Spigot hoặc Sponge của mình.
 
 Phiên bản miễn phí không còn được hỗ trợ nữa. Chỉ có phiên bản cao cấp mới có.
-
-Thông Tin
-Nếu bạn cần sự trợ giúp (trừ phiên bản miễn phí), bạn có thể liên hệ với tôi qua tin nhắn riêng trên Discord (Elikill58) hoặc tham gia máy chủ Discord của tôi ở đây.
-Bạn cũng có thể đề xuất và báo cáo lỗi thông qua trình theo dõi vấn đề trên kho lưu trữ.
 
 Một phiên bản cao cấp của plugin có sẵn. Bạn có thể tải xuống từ đây. Bạn có thể tìm hiểu về sự khác biệt giữa các phiên bản miễn phí và cao cấp ở đây.
 
@@ -903,10 +858,6 @@ I když plánujete použít plugin na proxy serveru, stále je nutné ho nainsta
 
 Verze zdarma již není podporována. Pouze prémiová verze je podporována.
 
-Informace
-Pokud potřebujete pomoc (kromě verze zdarma), můžete mě kontaktovat prostřednictvím soukromých zpráv na Discordu (Elikill58) nebo se připojit k mému serveru Discord zde.
-Můžete také poskytnout návrhy a hlásit chyby prostřednictvím sledování problémů na repozitáři.
-
 Prémiová verze pluginu je k dispozici. Můžete ji stáhnout odtud. O rozdílech mezi bezplatnou a prémiovou verzí se dozvíte zde.
 
 Instalační průvodce
@@ -972,10 +923,6 @@ Ju lutemi, vini re se XMac nuk është i kompatibël me versionin Spigot 1.7.10 
 Edhe nëse planifikoni ta përdorni në serverin tuaj proxy, ju ende duhet të instaloni pluginin në serverin tuaj Spigot ose Sponge.
 
 Versioni falas nuk ka më mbështetje. Vetëm ai premium ka.
-
-Informacione
-Nëse keni nevojë për ndihmë (përveç versionit falas), mund të ma drejtoni në mesazhe private në Discord (Elikill58) ose të bashkoheni në serverin tim Discord këtu.
-Ju gjithashtu mund të jepni sugjerime dhe të raportoni gabime përmes ndjekjes së çështjeve në repozitorin.
 
 Një version premium i plugin-it është i disponueshëm. Mund ta shkarkoni atë këtu. Mund të mësoni për dallimet midis versionit falas dhe versionit premium këtu.
 
@@ -1043,10 +990,6 @@ Nawet jeśli planujesz użyć go na serwerze proxy, nadal musisz zainstalować p
 
 Wersja darmowa nie ma już wsparcia. Tylko wersja premium jest wspierana.
 
-Informacje
-Jeśli potrzebujesz pomocy (z wyjątkiem wersji darmowej), możesz skontaktować się ze mną za pośrednictwem prywatnych wiadomości na Discordzie (Elikill58) lub dołączyć do mojego serwera Discord tutaj.
-Możesz także zgłaszać sugestie i błędy poprzez śledzenie problemów w repozytorium.
-
 Dostępna jest wersja premium pluginu. Możesz ją pobrać stąd. Możesz dowiedzieć się o różnicach między wersją darmową a premium tutaj.
 
 Przewodnik instalacyjny
@@ -1112,10 +1055,6 @@ Vă rugăm să rețineți că XMac nu este compatibil cu versiunea Spigot 1.7.10
 Chiar dacă intenționați să-l utilizați pe serverul dvs. proxy, tot trebuie să instalați plugin-ul pe serverul dvs. Spigot sau Sponge.
 
 Versiunea gratuită nu mai beneficiază de suport. Numai versiunea premium o are.
-
-Informații
-Dacă aveți nevoie de asistență (cu excepția versiunii gratuite), mă puteți contacta prin mesaje private pe Discord (Elikill58) sau puteți să vă alăturați serverului meu Discord aici.
-De asemenea, puteți să furnizați sugestii și să raportați erori prin intermediul urmăririi problemelor pe depozitul de cod.
 
 O versiune premium a pluginului este disponibilă. Puteți să o descărcați de aici. Puteți să aflați despre diferențele dintre versiunile gratuită și premium aici.
 
@@ -1183,10 +1122,6 @@ XMac هو إضافة AntiCheat لـ Minecraft مصممة لـ Spigot (الإصد
 
 لا يتوفر دعم النسخة المجانية بعد الآن. فقط النسخة المميزة متاحة.
 
-معلومات
-إذا كنت بحاجة إلى مساعدة (باستثناء النسخة المجانية) ، يمكنك الوصول إلي من خلال رسائل Discord الخاصة (Elikill58) أو الانضمام إلى خادم Discord هنا.
-يمكنك أيضًا تقديم الاقتراحات والإبلاغ عن الأخطاء من خلال متتبع المشاكل في المستودع.
-
 تتوفر نسخة مميزة من الإضافة. يمكنك تنزيلها من هنا. يمكنك معرفة الفروقات بين الإصدارات المجانية والمميزة هنا.
 
 دليل التثبيت
@@ -1247,10 +1182,6 @@ Kérjük, vegye figyelembe, hogy az XMac nem kompatibilis a Spigot 1.7.10 és a 
 Ha még a proxy szerverén is használni szeretné, akkor is telepítenie kell a bővítményt a Spigot vagy a Sponge szerverére.
 
 A szabad verziót már nem támogatjuk. Csak a prémium verzió elérhető.
-
-Információk
-Ha segítségre van szüksége (kivéve a szabad verziót), akkor kapcsolatba léphet velem Discord privát üzenetek (Elikill58) vagy csatlakozhat a Discord szerveremhez itt.
-Ötleteket is adhat és hibákat jelenthet be az ügykövetőn keresztül a repositoryban.
 
 Elérhető egy prémium verziója a bővítménynek. Letöltheti innen. A különbségekről a szabad és a prémium verziók között itt tájékozódhat.
 
@@ -1313,10 +1244,6 @@ Spigot 1.7.10 및 Sponge 1.13 이후 버전과 호환되지 않음에 유의하�
 
 무료 버전은 더 이상 지원되지 않습니다. 프리미엄 버전만 사용할 수 있습니다.
 
-정보
-무료 버전을 제외한 지원이 필요한 경우 Discord 개인 메시지(Elikill58)로 연락하거나 여기에서 Discord 서버에 참여할 수 있습니다.
-제안을 제공하거나 리포지토리의 이슈 트래커를 통해 버그를 신고할 수도 있습니다.
-
 플러그인의 프리미엄 버전이 있습니다. 여기에서 다운로드할 수 있습니다. 무료 버전과 프리미엄 버전의 차이점에 대해 알아보세요.
 
 설치 가이드
@@ -1376,10 +1303,6 @@ Harap dicatat bahwa XMac tidak kompatibel dengan Spigot 1.7.10 dan versi Sponge 
 Meskipun Anda berencana menggunakannya di server proxy Anda, Anda masih perlu menginstal plugin ini di server Spigot atau Sponge Anda.
 
 Versi gratis tidak lagi didukung. Hanya versi premium yang tersedia.
-
-Informasi
-Jika Anda memerlukan bantuan (kecuali untuk versi gratis), Anda dapat menghubungi saya melalui pesan pribadi Discord (Elikill58) atau bergabung dengan server Discord saya di sini.
-Anda juga dapat memberikan saran dan melaporkan bug melalui pelacak masalah di repositori.
 
 Versi premium dari plugin ini tersedia. Anda dapat mengunduhnya dari sini. Anda dapat mempelajari perbedaan antara versi gratis dan premium di sini.
 
@@ -1447,10 +1370,6 @@ XMac เป็นปลั๊กอินตรวจจับการโกง
 
 เวอร์ชันฟรีไม่ได้รับการสนับสนุนอีกต่อไป สามารถใช้ได้เฉพาะเวอร์ชันพรีเมียม
 
-ข้อมูล
-หากคุณต้องการความช่วยเหลือ (ยกเว้นเวอร์ชันฟรี) คุณสามารถติดต่อผ่านข้อความส่วนตัว Discord (Elikill58) หรือเข้าร่วมเซิร์ฟเวอร์ Discord ที่นี่
-คุณยังสามารถให้ข้อเสนอและรายงานข้อบกพร่องผ่านตัวติดตามปัญหาในเก็บข้อมูล
-
 มีเวอร์ชันพรีเมียมของปลั๊กอินที่ใช้งานได้ สามารถดาวน์โหลดได้ที่นี่ สามารถศึกษาเกี่ยวกับความแตกต่างระหว่างเวอร์ชันฟรีและเวอร์ชันพรีเมียมได้ที่นี่
 
 คู่มือการติดตั้ง
@@ -1474,10 +1393,6 @@ Lütfen XMac'in Spigot 1.7.10 ve 1.13 sonrası Sponge sürümleriyle uyumlu olma
 Proxy sunucunuzda kullanmayı planlıyor olsanız bile, eklentiyi hala Spigot veya Sponge sunucunuza kurmanız gerekir.
 
 Ücretsiz sürüm artık desteklenmiyor. Yalnızca premium sürüm mevcuttur.
-
-Bilgiler
-Ücretsiz sürüm dışında bir yardıma ihtiyacınız varsa, bana Discord özel mesajlar yoluyla (Elikill58) ulaşabilir veya Discord sunucuma katılabilirsiniz buradan.
-Ayrıca önerilerde bulunabilir ve hata bildirebilirsiniz. Bunun için repository'deki hata izleyicisini kullanabilirsiniz.
 
 Eklentinin premium sürümü mevcuttur. Buradan indirebilirsiniz. Ücretsiz ve premium sürümler arasındaki farkları buradan öğrenebilirsiniz.
 
@@ -1546,10 +1461,6 @@ Even if you plan to use it on your proxy server, you still need to install the p
 
 The free version is no longer supported. Only the premium version is available.
 
-Information
-If you need assistance (except for the free version), you can reach out to me through Discord private messages (Elikill58) or join my Discord server here.
-You can also provide suggestions and report bugs through the issue tracker on the repository.
-
 A premium version of the plugin is available. You can download it from here. You can learn about the differences between the free and premium versions here.
 
 Installation Guide
@@ -1587,10 +1498,6 @@ Spigot 1.7.10およびSpongeの1.13以降のバージョンとの互換性がな
 プロキシサーバーで使用する場合でも、プラグインをSpigotまたはSpongeサーバーにインストールする必要があります。
 
 無料版はもはやサポートされていません。プレミアム版のみがサポートされています。
-
-情報
-（無料版を除く）支援が必要な場合は、Discordの個人メッセージ（Elikill58）で連絡するか、こちらから私のDiscordサーバーに参加してください。
-提案やバグの報告も、リポジトリの問題トラッカーを通じて行うことができます。
 
 プラグインのプレミアム版が利用可能です。こちらからダウンロードできます。無料版とプレミアム版の違いについては、こちらから学ぶことができます。
 
