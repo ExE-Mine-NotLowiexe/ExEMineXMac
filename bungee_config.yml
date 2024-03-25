@@ -1,3 +1,18 @@
+###################################################################
+#                                                                 #
+#                            Negativity                           #
+#                      AntiCheat by Elikill58                     #
+#                                                                 #
+#              If you have a problem or a suggestion,             #
+#                    You can contact me on:                       #
+#                  - Discord: @Elikill58#0743                     #
+#       - my Discord server: https://discord.gg/KHRVTX2           #
+#               - Mail: arpetzouille@gmail.com                    #
+#                   - SpigotMC: Elikill58                         #
+#                  - Minecraft.fr: Elikill                        #
+#                                                                 #
+###################################################################
+
 # Database for storing info, if applicable
 # Disabled by default
 Database:
@@ -93,7 +108,7 @@ ban:
     - "unban %uuid% %reason%"
   # Cheats that aren't auto-banned for
   cheat_disabled:
-  - xray
+  -
   # Confidence needed to be banned
   reliability_need: 95
   # Alerts sent before ban
