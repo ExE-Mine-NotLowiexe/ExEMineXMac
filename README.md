@@ -1,4 +1,4 @@
-#XMac
+# XMac
 XMac
 XMac is a Minecraft AntiCheat plugin designed for Spigot (versions 1.8.8 to 1.20) and is also compatible with forks of Spigot. It can be used with both Bungeecord and Velocity.
 
