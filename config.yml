@@ -1,12 +1,3 @@
-###################################################################
-#                                                                 #
-#                            Negativity                           #
-#                      AntiCheat by Elikill58                     #
-#                                                                 #
-#                       NO LONGER SUPPORTED                       #
-#                                                                 #
-###################################################################
-
 # Enable cheat alerts
 log_alerts: true
 log_alerts_in_console: true
@@ -900,5 +891,5 @@ webhooks:
             # Author details of the message
             author:
               name: "XMAC"
-              link: ""
+              link: "https://github.com/ExE-Mine-NotLowiexe/ExEMineXMac/"
               icon: "https://i.hizliresim.com/a7iz0yl.png"
